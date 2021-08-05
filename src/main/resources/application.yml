@@ -1,0 +1,8 @@
+server:
+  port: 4495
+  
+app:
+ messages:
+   greetMsg: GoodMorning
+   welcomeMsg: Welcome to Ashok it
+   
